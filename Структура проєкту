@@ -1,0 +1,11 @@
+currency_converter_bot/
+├── bot.py
+├── handlers/
+│   └── convert.py
+├── utils/
+│   ├── currency_api.py
+│   └── validator.py
+├── .env
+├── .gitignore
+├── requirements.txt
+└── README.md
